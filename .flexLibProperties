@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.laiyonghao.Uuid"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests>
+<namespaceManifestEntry manifest="asuuid-define.xml" namespace="http://laiyonghao.com"/>
+</namespaceManifests>
+</flexLibProperties>
